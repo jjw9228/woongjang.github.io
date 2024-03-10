@@ -6,40 +6,26 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a Ph.D. student in [HIS Lab](https://his-lab.org) at [POSTECH](https://postech.ac.kr), advised by Prof. [Inseok Hwang](https://www.inseokhwang.com/). My research interests are HCI & Ubiquitous Computing.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+## Papers
 
-## Research Interest
+- [AI-to-Human Actuation: Boosting Unmodified AI's Robustness by Proactively Inducing Favorable Human Sensing Conditions](https://dl.acm.org/doi/abs/10.1145/3580812)
+   - Sungjae Cho, Yoonsu Kim, **Jaewoong Jang**, Inseok Hwang
+   - [PACM IMWUT](https://dl.acm.org/journal/imwut), volume 7, issue 3, pp. 105:1-32 (September 2023).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## Demos / Posters
+- [Demonstrating AHA: Boosting Unmodified AI's Robustness by Proactively Inducing Favorable Human Sensing Conditions](https://dl.acm.org/doi/abs/10.1145/3594739.3610718)
+    - Sungjae Cho, **Jaewoong Jang**, Yoonsu Kim, Inseok Hwang
+    - [ACM UbiComp 2023](https://www.ubicomp.org/ubicomp-iswc-2023/), Cancun, Mexico.
 
-## Publications
+## Education
+- **Ph.D. Student**, POSTECH, Computer Science and Engineering (Sep 2022 - Current)
+- **B.S**., Postech, Computer Science and Enginnering (March 2016 - Aug 2022)
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Volunteering
+- Student Volunteer for **UIST 2022**
 
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+## Experience
+- Machine Learning Engineer at **DreamBit** (2020.09. ~ 2021.02.)
+  - Developing a trademark similarity inference model

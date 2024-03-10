@@ -10,6 +10,16 @@ remote_them: ankitsultana/researcher@gem
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Contact"
+   link: "contact"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
