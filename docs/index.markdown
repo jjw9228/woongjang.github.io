@@ -19,6 +19,10 @@ Hi! I am a Ph.D. student in [HIS Lab](https://his-lab.org) at [POSTECH](https://
     - Sungjae Cho, **Jaewoong Jang**, Yoonsu Kim, Inseok Hwang
     - [ACM UbiComp 2023](https://www.ubicomp.org/ubicomp-iswc-2023/), Cancun, Mexico.
 
+## Grants
+- a Ph.D. fellowship from NRF (National Research Foundation) of Korea (Sep 2024 - Aug 2026)
+  - Title: Communication Augmentation System Based on User Inputs for Reducing the Gap of Non-verbal Communication in Mixed Reality
+
 ## Education
 - **Ph.D. Student**, POSTECH, Computer Science and Engineering (Sep 2022 - Current)
 - **B.S**., Postech, Computer Science and Enginnering (March 2016 - Aug 2022)
