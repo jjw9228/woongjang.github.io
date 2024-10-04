@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-Hi! I am a Ph.D. student in [HIS Lab](https://his-lab.org) at [POSTECH](https://postech.ac.kr), advised by Prof. [Inseok Hwang](https://www.inseokhwang.com/). My research interests are HCI & Ubiquitous Computing.
+Hi! I am a Ph.D. student in [HIS Lab](https://his-lab.org) at [POSTECH](https://postech.ac.kr), advised by Prof. [Inseok Hwang](https://www.inseokhwang.com/). My research interests lies in expression augmentation & enhancement in computer-mediated communication.
 
 ## Papers
 
